@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T23:29:45 IST" name="Default suite" finished-at="2024-06-06T23:30:32 IST" duration-ms="46290">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T23:29:45 IST" name="Default test" finished-at="2024-06-06T23:30:32 IST" duration-ms="46290">
+      <class name="testpkg.Testclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:29:45 IST" name="setup" finished-at="2024-06-06T23:29:57 IST" duration-ms="11946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:29:57 IST" name="setUp" finished-at="2024-06-06T23:29:57 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="lg()[pri:1, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:29:57 IST" name="lg" finished-at="2024-06-06T23:30:01 IST" duration-ms="3142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lg -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:01 IST" name="setUp" finished-at="2024-06-06T23:30:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCred()[pri:2, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:01 IST" name="verifyLoginWithValidCred" finished-at="2024-06-06T23:30:06 IST" duration-ms="5617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCred -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:06 IST" name="setUp" finished-at="2024-06-06T23:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="assertion()[pri:3, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:06 IST" name="assertion" finished-at="2024-06-06T23:30:06 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertion -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:06 IST" name="setUp" finished-at="2024-06-06T23:30:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clicknewarr()[pri:4, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:06 IST" name="clicknewarr" finished-at="2024-06-06T23:30:20 IST" duration-ms="13641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicknewarr -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:20 IST" name="setUp" finished-at="2024-06-06T23:30:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickcart()[pri:5, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:20 IST" name="clickcart" finished-at="2024-06-06T23:30:31 IST" duration-ms="11563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcart -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:31 IST" name="setUp" finished-at="2024-06-06T23:30:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:6, instance:testpkg.Testclass@3527942a]" started-at="2024-06-06T23:30:31 IST" name="test" finished-at="2024-06-06T23:30:32 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testpkg.Testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
